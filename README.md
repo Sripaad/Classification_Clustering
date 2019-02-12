@@ -6,3 +6,7 @@ This code uses the scikit-learn machine learning library to train a decision tre
     numpy (pip install numpy)
     scipy (pip install scipy)
     Install missing dependencies using pip
+#
+__*NOTE:*__ I do not remember the hyperparameters and was a beginner while trying this out, more clustering and classificaton to come.
+
+*A Project byb Sripaad Srinivasan*
